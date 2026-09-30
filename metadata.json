@@ -1,0 +1,6 @@
+{
+  "name": "Sonora AI - Next-Gen Music Streaming",
+  "description": "Premium AI-powered music streaming platform featuring intelligent playlist generation, cloud audio streaming, admin upload studio, real-time visualizer, and dynamic discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

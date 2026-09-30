@@ -1,0 +1,1019 @@
+{
+  "songs": [
+    {
+      "id": "song-bhojpuri-1",
+      "title": "Lal Chunariya Wali Maiya",
+      "artist": "Devi Vandana & Bhojpuri Choir",
+      "artistId": "artist-1",
+      "album": "Durga Saptashati & Devi Geet",
+      "albumId": "album-1",
+      "genre": "Bhojpuri Bhakti & Devi Geet",
+      "duration": 178,
+      "fileSize": 4800000,
+      "coverUrl": "https://images.unsplash.com/photo-1609342122563-a43ac8917a3a?w=600&auto=format&fit=crop&q=80",
+      "playCount": 482000,
+      "releaseDate": "2026-03-25",
+      "lyrics": "[00:00.00] अरे मईया हो... लाल चुनरिया वाली...\n[00:08.00] आवा ना हमरे दुआर, तोहरे बाट जोहेला परिवार\n[00:16.00] लाल चुनरिया ओढ़ के मईया अईली सिंह सवार हो\n[00:20.00] फूलवा बरसे अंगनवा में गूंजे जय जयकार हो\n[00:24.00] जय मईया, जय मईया, दुलरुवा मईया हमार\n[00:32.00] भोर भईल त मंदिर सजवले, दीया जरवले चार\n[00:40.00] रोली अक्षत फूल चढ़ाई, लेके पूजा के थार\n[00:48.00] दूर दूर से भक्त अईले, मन में लेके आस\n[00:56.00] जेकरा माथे हाथ रख तू, मिट जाला सब त्रास\n[01:03.00] आवा मईया आवा मईया हमरा घर के दुआर\n[01:08.00] लाल चुनरिया वाली मईया तू ही हउ आधार\n[01:36.00] ना मांगी धन, ना मांगी दौलत, ना मांगी राज सिंहासन\n[01:46.00] माई बस अपना कृपा बनईह, पावन रखिह जीवन\n[02:08.00] तोहरा नाम से डर भागे, दुर्गा मईया...\n[02:18.00] लाल चुनरिया ओढ़ के मईया अईली सिंह सवार हो\n[02:24.00] ढोल नगाड़ा बाजे दुवारी, गूंजे जय जयकार हो\n[02:28.00] जय दुर्गे, जय भवानी! सांचे दरबार की जय!",
+      "syncedLyrics": [
+        {
+          "time": 0,
+          "text": "अरे मईया हो... लाल चुनरिया वाली..."
+        },
+        {
+          "time": 8,
+          "text": "आवा ना हमरे दुआर, तोहरे बाट जोहेला परिवार"
+        },
+        {
+          "time": 16,
+          "text": "लाल चुनरिया ओढ़ के मईया अईली सिंह सवार हो"
+        },
+        {
+          "time": 20,
+          "text": "फूलवा बरसे अंगनवा में गूंजे जय जयकार हो"
+        },
+        {
+          "time": 24,
+          "text": "जय मईया, जय मईया, दुलरुवा मईया हमार"
+        },
+        {
+          "time": 32,
+          "text": "भोर भईल त मंदिर सजवले, दीया जरवले चार"
+        },
+        {
+          "time": 40,
+          "text": "रोली अक्षत फूल चढ़ाई, लेके पूजा के थार"
+        },
+        {
+          "time": 48,
+          "text": "दूर दूर से भक्त अईले, मन में लेके आस"
+        },
+        {
+          "time": 56,
+          "text": "जेकरा माथे हाथ रख तू, मिट जाला सब त्रास"
+        },
+        {
+          "time": 63,
+          "text": "आवा मईया आवा मईया हमरा घर के दुआर"
+        },
+        {
+          "time": 68,
+          "text": "लाल चुनरिया वाली मईया तू ही हउ आधार"
+        },
+        {
+          "time": 96,
+          "text": "ना मांगी धन, ना मांगी दौलत, ना मांगी राज सिंहासन"
+        },
+        {
+          "time": 106,
+          "text": "माई बस अपना कृपा बनईह, पावन रखिह जीवन"
+        },
+        {
+          "time": 128,
+          "text": "तोहरा नाम से डर भागे, दुर्गा मईया..."
+        },
+        {
+          "time": 138,
+          "text": "लाल चुनरिया ओढ़ के मईया अईली सिंह सवार हो"
+        },
+        {
+          "time": 144,
+          "text": "ढोल नगाड़ा बाजे दुवारी, गूंजे जय जयकार हो"
+        },
+        {
+          "time": 148,
+          "text": "जय दुर्गे, जय भवानी! सांचे दरबार की जय!"
+        }
+      ],
+      "audioUrl": "/api/stream/song-bhojpuri-1",
+      "filePath": "demo_song_song-bhojpuri-1.wav",
+      "createdAt": "2026-09-30T15:09:40.497Z"
+    },
+    {
+      "id": "song-bhojpuri-2",
+      "title": "Aawa Ho Maiya Hamra Anganwa",
+      "artist": "Sharda & Anganwa Toli",
+      "artistId": "artist-1",
+      "album": "Durga Saptashati & Devi Geet",
+      "albumId": "album-1",
+      "genre": "Bhojpuri Bhakti & Devi Geet",
+      "duration": 183,
+      "fileSize": 4900000,
+      "coverUrl": "https://images.unsplash.com/photo-1545232979-8bf68ee9b1af?w=600&auto=format&fit=crop&q=80",
+      "playCount": 510000,
+      "releaseDate": "2026-03-28",
+      "lyrics": "[00:00.00] अरे मईया... आवा हो मईया...\n[00:10.00] हमरा अंगनवा में आज मंगल गीत गावा\n[00:20.00] माई अईली अंगनवा फूलवा से सजल दुआर\n[00:30.00] लाल चुनरिया ओढ़ के अईली चमके नयनवा अपार\n[00:39.00] हो मईया हो मईया तोहरे चरण में माथ नवाई\n[00:44.00] धूप फूलवा के थारी सजाई, दीया हजार जराई\n[00:57.00] भोरही से अंगना लीपल, चौका सुंदर बनावला\n[01:02.00] आम के पल्लव गेंदा फूल से दुवारी खूब सजावला\n[01:07.00] माई के आवे के खबर सुनी गांव भईल खुशहाल\n[01:12.00] बुढ़िया दादी मंगल गावे बाजे ढोलक ताल\n[01:17.00] अईली मईया दुलारी सुना अरजिया हमार\n[01:21.00] खाली ना भेजीह आँचरा भर द सुख संसार\n[01:33.00] लाल चुनरिया लहराए माई, माथे चमके टीका\n[01:40.00] करुणा भरल नयनवा तोहर रूप लागे अति नीक\n[02:00.00] माई के चरण पखार सखिया गंगाजल ले आके\n[02:08.00] मंगल गीत सुनाव ता मन, ना मांगी चांदी ना मांगी महल दुवारा\n[02:14.00] माई बस अपना कृपा बनईह, एही बा अरजी हमार\n[02:48.00] हमरा अंगनवा में सुख समृद्धि ले आई, जय मईया रानी!",
+      "syncedLyrics": [
+        {
+          "time": 0,
+          "text": "अरे मईया... आवा हो मईया..."
+        },
+        {
+          "time": 10,
+          "text": "हमरा अंगनवा में आज मंगल गीत गावा"
+        },
+        {
+          "time": 20,
+          "text": "माई अईली अंगनवा फूलवा से सजल दुआर"
+        },
+        {
+          "time": 30,
+          "text": "लाल चुनरिया ओढ़ के अईली चमके नयनवा अपार"
+        },
+        {
+          "time": 39,
+          "text": "हो मईया हो मईया तोहरे चरण में माथ नवाई"
+        },
+        {
+          "time": 44,
+          "text": "धूप फूलवा के थारी सजाई, दीया हजार जराई"
+        },
+        {
+          "time": 57,
+          "text": "भोरही से अंगना लीपल, चौका सुंदर बनावला"
+        },
+        {
+          "time": 62,
+          "text": "आम के पल्लव गेंदा फूल से दुवारी खूब सजावला"
+        },
+        {
+          "time": 67,
+          "text": "माई के आवे के खबर सुनी गांव भईल खुशहाल"
+        },
+        {
+          "time": 72,
+          "text": "बुढ़िया दादी मंगल गावे बाजे ढोलक ताल"
+        },
+        {
+          "time": 77,
+          "text": "अईली मईया दुलारी सुना अरजिया हमार"
+        },
+        {
+          "time": 81,
+          "text": "खाली ना भेजीह आँचरा भर द सुख संसार"
+        },
+        {
+          "time": 93,
+          "text": "लाल चुनरिया लहराए माई, माथे चमके टीका"
+        },
+        {
+          "time": 100,
+          "text": "करुणा भरल नयनवा तोहर रूप लागे अति नीक"
+        },
+        {
+          "time": 120,
+          "text": "माई के चरण पखार सखिया गंगाजल ले आके"
+        },
+        {
+          "time": 128,
+          "text": "मंगल गीत सुनाव ता मन, ना मांगी चांदी ना मांगी महल दुवारा"
+        },
+        {
+          "time": 134,
+          "text": "माई बस अपना कृपा बनईह, एही बा अरजी हमार"
+        },
+        {
+          "time": 168,
+          "text": "हमरा अंगनवा में सुख समृद्धि ले आई, जय मईया रानी!"
+        }
+      ],
+      "audioUrl": "/api/stream/song-bhojpuri-2",
+      "filePath": "demo_song_song-bhojpuri-2.wav",
+      "createdAt": "2026-09-30T15:09:40.498Z"
+    },
+    {
+      "id": "song-1",
+      "title": "Rhythms of the River Bank",
+      "artist": "Kavya & The Echoes",
+      "artistId": "artist-1",
+      "album": "Ganga Sunset Sessions",
+      "albumId": "album-1",
+      "genre": "Bhojpuri Fusion Beats",
+      "duration": 198,
+      "fileSize": 4200000,
+      "coverUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+      "playCount": 142301,
+      "releaseDate": "2025-11-12",
+      "lyrics": "[00:04.00] Echoes rolling down the holy water\n[00:10.00] In the quiet breeze of golden twilight\n[00:18.00] Bhojpuri beats in the morning sunlight\n[00:26.00] Dhurpad rhythm meets electric night\n[00:34.00] River whispers, take me home",
+      "syncedLyrics": [
+        {
+          "time": 4,
+          "text": "Echoes rolling down the holy water"
+        },
+        {
+          "time": 10,
+          "text": "In the quiet breeze of golden twilight"
+        },
+        {
+          "time": 18,
+          "text": "Bhojpuri beats in the morning sunlight"
+        },
+        {
+          "time": 26,
+          "text": "Dhurpad rhythm meets electric night"
+        },
+        {
+          "time": 34,
+          "text": "River whispers, take me home"
+        }
+      ],
+      "createdAt": "2026-08-31T14:16:22.248Z",
+      "audioUrl": "/api/stream/song-1",
+      "filePath": "demo_song_song-1.wav"
+    },
+    {
+      "id": "song-2",
+      "title": "Cyber Highway 101",
+      "artist": "Aetherwave",
+      "artistId": "artist-2",
+      "album": "Neon Odyssey 2084",
+      "albumId": "album-2",
+      "genre": "Synthwave & Retro",
+      "duration": 215,
+      "fileSize": 5100000,
+      "coverUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+      "playCount": 289400,
+      "releaseDate": "2026-02-18",
+      "lyrics": "[00:05.00] Neon lines cutting through the dark\n[00:12.00] Racing fast leaving behind a spark\n[00:20.00] 120 on the retro dash\n[00:28.00] We will never look back now",
+      "syncedLyrics": [
+        {
+          "time": 5,
+          "text": "Neon lines cutting through the dark"
+        },
+        {
+          "time": 12,
+          "text": "Racing fast leaving behind a spark"
+        },
+        {
+          "time": 20,
+          "text": "120 on the retro dash"
+        },
+        {
+          "time": 28,
+          "text": "We will never look back now"
+        }
+      ],
+      "createdAt": "2026-09-05T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-2",
+      "filePath": "demo_song_song-2.wav"
+    },
+    {
+      "id": "song-3",
+      "title": "Coffee Steam on Windowpane",
+      "artist": "Nico Sol",
+      "artistId": "artist-3",
+      "album": "Midnight Coffee & Rain",
+      "albumId": "album-3",
+      "genre": "Chillhop & Lo-Fi",
+      "duration": 184,
+      "fileSize": 3900000,
+      "coverUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=600&auto=format&fit=crop&q=80",
+      "playCount": 450100,
+      "releaseDate": "2026-01-05",
+      "lyrics": "[00:03.00] Drops of rain on the glass outside\n[00:09.00] Nowhere left I need to hide\n[00:16.00] Warm cup in my trembling hands\n[00:23.00] Peace is found where quiet stands",
+      "syncedLyrics": [
+        {
+          "time": 3,
+          "text": "Drops of rain on the glass outside"
+        },
+        {
+          "time": 9,
+          "text": "Nowhere left I need to hide"
+        },
+        {
+          "time": 16,
+          "text": "Warm cup in my trembling hands"
+        },
+        {
+          "time": 23,
+          "text": "Peace is found where quiet stands"
+        }
+      ],
+      "createdAt": "2026-08-21T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-3",
+      "filePath": "demo_song_song-3.wav"
+    },
+    {
+      "id": "song-4",
+      "title": "Dholak & 808s",
+      "artist": "Mira Varanasi",
+      "artistId": "artist-4",
+      "album": "Patna Basslines Vol. 1",
+      "albumId": "album-4",
+      "genre": "Bhojpuri Fusion Beats",
+      "duration": 204,
+      "fileSize": 4800000,
+      "coverUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&auto=format&fit=crop&q=80",
+      "playCount": 512000,
+      "releaseDate": "2026-03-01",
+      "lyrics": "[00:06.00] Heavy sub rattle in the trunk\n[00:12.00] Folk energy turn it up\n[00:18.00] East wind blowing fierce and strong\n[00:25.00] Sing with me this timeless song",
+      "syncedLyrics": [
+        {
+          "time": 6,
+          "text": "Heavy sub rattle in the trunk"
+        },
+        {
+          "time": 12,
+          "text": "Folk energy turn it up"
+        },
+        {
+          "time": 18,
+          "text": "East wind blowing fierce and strong"
+        },
+        {
+          "time": 25,
+          "text": "Sing with me this timeless song"
+        }
+      ],
+      "createdAt": "2026-09-15T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-4",
+      "filePath": "demo_song_song-4.wav"
+    },
+    {
+      "id": "song-5",
+      "title": "Starlight Resonator",
+      "artist": "Orbital Horizon",
+      "artistId": "artist-5",
+      "album": "Cosmic Drift Through Time",
+      "albumId": "album-5",
+      "genre": "Cinematic Ambient",
+      "duration": 240,
+      "fileSize": 6200000,
+      "coverUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&auto=format&fit=crop&q=80",
+      "playCount": 198200,
+      "releaseDate": "2025-10-20",
+      "lyrics": "[Instrumental Ambient Soundscape]\nDeep resonant sub drones with analog crystalline textures.",
+      "syncedLyrics": [
+        {
+          "time": 0,
+          "text": "♫ [Deep Celestial Drones] ♫"
+        },
+        {
+          "time": 15,
+          "text": "Floating beyond the gravity well"
+        },
+        {
+          "time": 30,
+          "text": "Solar winds carry our memory"
+        }
+      ],
+      "createdAt": "2026-08-11T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-5",
+      "filePath": "demo_song_song-5.wav"
+    },
+    {
+      "id": "song-6",
+      "title": "Monsoon in Chhapra",
+      "artist": "Kavya & The Echoes",
+      "artistId": "artist-1",
+      "album": "Ganga Sunset Sessions",
+      "albumId": "album-1",
+      "genre": "Bhojpuri Fusion Beats",
+      "duration": 210,
+      "fileSize": 4600000,
+      "coverUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+      "playCount": 234100,
+      "releaseDate": "2025-11-12",
+      "lyrics": "Clouds roll in over the green fields\nFirst drops touching dry earth\nSweet petrichor fills the evening\nLaughter echoing through village lanes",
+      "createdAt": "2026-09-02T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-6",
+      "filePath": "demo_song_song-6.wav"
+    },
+    {
+      "id": "song-7",
+      "title": "Electric Velvet Night",
+      "artist": "Aetherwave",
+      "artistId": "artist-2",
+      "album": "Neon Odyssey 2084",
+      "albumId": "album-2",
+      "genre": "Synthwave & Retro",
+      "duration": 195,
+      "fileSize": 4400000,
+      "coverUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=600&auto=format&fit=crop&q=80",
+      "playCount": 310500,
+      "releaseDate": "2026-02-18",
+      "lyrics": "Velvet sky tinted deep purple\nSynthesizer arpeggios glow\nReflections in chrome mirror glasses\nWatch the highway light show",
+      "createdAt": "2026-09-08T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-7",
+      "filePath": "demo_song_song-7.wav"
+    },
+    {
+      "id": "song-8",
+      "title": "Sunday Morning Books & Tea",
+      "artist": "Nico Sol",
+      "artistId": "artist-3",
+      "album": "Midnight Coffee & Rain",
+      "albumId": "album-3",
+      "genre": "Chillhop & Lo-Fi",
+      "duration": 172,
+      "fileSize": 3700000,
+      "coverUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=600&auto=format&fit=crop&q=80",
+      "playCount": 520400,
+      "releaseDate": "2026-01-05",
+      "lyrics": "Sun peeking past old curtains\nPages turning one by one\nNothing to chase this morning\nA quiet day has begun",
+      "createdAt": "2026-08-26T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-8",
+      "filePath": "demo_song_song-8.wav"
+    },
+    {
+      "id": "song-9",
+      "title": "Kashi High Voltage",
+      "artist": "Mira Varanasi",
+      "artistId": "artist-4",
+      "album": "Patna Basslines Vol. 1",
+      "albumId": "album-4",
+      "genre": "Bhojpuri Fusion Beats",
+      "duration": 228,
+      "fileSize": 5200000,
+      "coverUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&auto=format&fit=crop&q=80",
+      "playCount": 388900,
+      "releaseDate": "2026-03-01",
+      "lyrics": "Temple bells in 4/4 sync\nElectric bass makes you think\nTradition and the club unite\nDancing till the morning light",
+      "createdAt": "2026-09-20T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-9",
+      "filePath": "demo_song_song-9.wav"
+    },
+    {
+      "id": "song-10",
+      "title": "Nebula Cradle",
+      "artist": "Orbital Horizon",
+      "artistId": "artist-5",
+      "album": "Cosmic Drift Through Time",
+      "albumId": "album-5",
+      "genre": "Cinematic Ambient",
+      "duration": 265,
+      "fileSize": 6800000,
+      "coverUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=600&auto=format&fit=crop&q=80",
+      "playCount": 167300,
+      "releaseDate": "2025-10-20",
+      "lyrics": "[Instrumental Drone Meditation]\nA shimmering voyage into celestial birthplaces.",
+      "createdAt": "2026-08-13T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-10",
+      "filePath": "demo_song_song-10.wav"
+    },
+    {
+      "id": "song-11",
+      "title": "Bhojpur Roadtrip Anthem",
+      "artist": "Kavya & The Echoes",
+      "artistId": "artist-1",
+      "album": "Ganga Sunset Sessions",
+      "albumId": "album-1",
+      "genre": "Bhojpuri Fusion Beats",
+      "duration": 200,
+      "fileSize": 4500000,
+      "coverUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=600&auto=format&fit=crop&q=80",
+      "playCount": 620000,
+      "releaseDate": "2025-11-12",
+      "lyrics": "Windows down, speakers blasting loud\nSinging together in the cheerful crowd\nPassing through mustard flower fields\nJoy is the only treasure that yields",
+      "createdAt": "2026-09-10T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-11",
+      "filePath": "demo_song_song-11.wav"
+    },
+    {
+      "id": "song-12",
+      "title": "Tokyo Midnight Run",
+      "artist": "Aetherwave",
+      "artistId": "artist-2",
+      "album": "Neon Odyssey 2084",
+      "albumId": "album-2",
+      "genre": "Synthwave & Retro",
+      "duration": 220,
+      "fileSize": 5000000,
+      "coverUrl": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=600&auto=format&fit=crop&q=80",
+      "playCount": 412000,
+      "releaseDate": "2026-02-18",
+      "lyrics": "Red tail lights blurring into red ribbons\nSynthesizer bassline thumping deep\nShinjuku alleys sleeping beneath the skyline\nMemories we promised to keep",
+      "createdAt": "2026-09-12T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-12",
+      "filePath": "demo_song_song-12.wav"
+    },
+    {
+      "id": "song-13",
+      "title": "Late Night Cat Naps",
+      "artist": "Nico Sol",
+      "artistId": "artist-3",
+      "album": "Midnight Coffee & Rain",
+      "albumId": "album-3",
+      "genre": "Chillhop & Lo-Fi",
+      "duration": 165,
+      "fileSize": 3500000,
+      "coverUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=600&auto=format&fit=crop&q=80",
+      "playCount": 680200,
+      "releaseDate": "2026-01-05",
+      "lyrics": "Purring rhythms softly sound\nSoftest blanket all around\nStars outside the window gaze\nLost inside a gentle haze",
+      "createdAt": "2026-08-29T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-13",
+      "filePath": "demo_song_song-13.wav"
+    },
+    {
+      "id": "song-14",
+      "title": "Bhojpuri Deep Club Groove",
+      "artist": "Mira Varanasi",
+      "artistId": "artist-4",
+      "album": "Patna Basslines Vol. 1",
+      "albumId": "album-4",
+      "genre": "Deep House & Club",
+      "duration": 215,
+      "fileSize": 4900000,
+      "coverUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&auto=format&fit=crop&q=80",
+      "playCount": 341000,
+      "releaseDate": "2026-03-01",
+      "lyrics": "Move your feet to the steady bassline\nEverything feels so divine\nFrom rural roots to global sound\nWhere harmony is easily found",
+      "createdAt": "2026-09-22T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-14",
+      "filePath": "demo_song_song-14.wav"
+    },
+    {
+      "id": "song-15",
+      "title": "Solar Wind Reflections",
+      "artist": "Orbital Horizon",
+      "artistId": "artist-5",
+      "album": "Cosmic Drift Through Time",
+      "albumId": "album-5",
+      "genre": "Cinematic Ambient",
+      "duration": 255,
+      "fileSize": 6400000,
+      "coverUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=600&auto=format&fit=crop&q=80",
+      "playCount": 145000,
+      "releaseDate": "2025-10-20",
+      "lyrics": "[Cinematic Soundscapes]\nA slow meditation across northern aurora fields.",
+      "createdAt": "2026-08-17T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-15",
+      "filePath": "demo_song_song-15.wav"
+    },
+    {
+      "id": "song-16",
+      "title": "Harvest Festival Lights",
+      "artist": "Kavya & The Echoes",
+      "artistId": "artist-1",
+      "album": "Ganga Sunset Sessions",
+      "albumId": "album-1",
+      "genre": "Bhojpuri Fusion Beats",
+      "duration": 188,
+      "fileSize": 4100000,
+      "coverUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600&auto=format&fit=crop&q=80",
+      "playCount": 295000,
+      "releaseDate": "2025-11-12",
+      "lyrics": "Golden grain dancing in the breeze\nCelebration beneath banyan trees\nBrass plates shining in the fire\nMusic lifting our spirits higher",
+      "createdAt": "2026-09-14T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-16",
+      "filePath": "demo_song_song-16.wav"
+    },
+    {
+      "id": "song-17",
+      "title": "Outrun Sunset Cruise",
+      "artist": "Aetherwave",
+      "artistId": "artist-2",
+      "album": "Neon Odyssey 2084",
+      "albumId": "album-2",
+      "genre": "Synthwave & Retro",
+      "duration": 205,
+      "fileSize": 4700000,
+      "coverUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&auto=format&fit=crop&q=80",
+      "playCount": 489000,
+      "releaseDate": "2026-02-18",
+      "lyrics": "Palm silhouettes against an orange sky\nDriving down the coast as years pass by\nCassette tape clicking in the stereo\nLet the analog memories glow",
+      "createdAt": "2026-09-18T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-17",
+      "filePath": "demo_song_song-17.wav"
+    },
+    {
+      "id": "song-18",
+      "title": "Study Session in Shibuya",
+      "artist": "Nico Sol",
+      "artistId": "artist-3",
+      "album": "Midnight Coffee & Rain",
+      "albumId": "album-3",
+      "genre": "Chillhop & Lo-Fi",
+      "duration": 190,
+      "fileSize": 4200000,
+      "coverUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=600&auto=format&fit=crop&q=80",
+      "playCount": 710000,
+      "releaseDate": "2026-01-05",
+      "lyrics": "Pencil scribbles on fresh paper\nQuiet focus, gentle vapor\nLow-pass drums steady and slow\nWatching thoughts begin to grow",
+      "createdAt": "2026-09-01T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-18",
+      "filePath": "demo_song_song-18.wav"
+    },
+    {
+      "id": "song-19",
+      "title": "Eastern Express Velocity",
+      "artist": "Mira Varanasi",
+      "artistId": "artist-4",
+      "album": "Patna Basslines Vol. 1",
+      "albumId": "album-4",
+      "genre": "Bhojpuri Fusion Beats",
+      "duration": 218,
+      "fileSize": 5000000,
+      "coverUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&auto=format&fit=crop&q=80",
+      "playCount": 420500,
+      "releaseDate": "2026-03-01",
+      "lyrics": "Train tracks clicking rhythmic steel\nThis is how velocity must feel\nChasing dawn across Bihar\nReaching forward near and far",
+      "createdAt": "2026-09-25T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-19",
+      "filePath": "demo_song_song-19.wav"
+    },
+    {
+      "id": "song-20",
+      "title": "Aurora Borealis Echo",
+      "artist": "Orbital Horizon",
+      "artistId": "artist-5",
+      "album": "Cosmic Drift Through Time",
+      "albumId": "album-5",
+      "genre": "Cinematic Ambient",
+      "duration": 270,
+      "fileSize": 6900000,
+      "coverUrl": "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?w=600&auto=format&fit=crop&q=80",
+      "playCount": 182000,
+      "releaseDate": "2025-10-20",
+      "lyrics": "[Pure Ambient Wonder]\nSymphonic northern lights painted across arctic skies.",
+      "createdAt": "2026-08-21T14:16:22.249Z",
+      "audioUrl": "/api/stream/song-20",
+      "filePath": "demo_song_song-20.wav"
+    }
+  ],
+  "artists": [
+    {
+      "id": "artist-1",
+      "name": "Kavya & The Echoes",
+      "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&auto=format&fit=crop&q=80",
+      "bio": "Pioneering blend of traditional folk melodies, modern synthesizers, and ethereal acoustic soundscapes.",
+      "genres": [
+        "Bhojpuri Fusion Beats",
+        "Indie Acoustic"
+      ],
+      "monthlyListeners": 428000,
+      "topSongIds": [
+        "song-1",
+        "song-6",
+        "song-11"
+      ]
+    },
+    {
+      "id": "artist-2",
+      "name": "Aetherwave",
+      "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=600&auto=format&fit=crop&q=80",
+      "bio": "Analog synthesizer enthusiast crafting nostalgic nocturnal soundtracks inspired by neon cityscapes.",
+      "genres": [
+        "Synthwave & Retro",
+        "Cyberpunk Bass"
+      ],
+      "monthlyListeners": 785000,
+      "topSongIds": [
+        "song-2",
+        "song-7",
+        "song-12"
+      ]
+    },
+    {
+      "id": "artist-3",
+      "name": "Nico Sol",
+      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&auto=format&fit=crop&q=80",
+      "bio": "Late night lo-fi producer capturing rain sounds, warm Rhodes chords, and dusty vinyl crackles.",
+      "genres": [
+        "Chillhop & Lo-Fi",
+        "Neo-Soul & R&B"
+      ],
+      "monthlyListeners": 920000,
+      "topSongIds": [
+        "song-3",
+        "song-8",
+        "song-13"
+      ]
+    },
+    {
+      "id": "artist-4",
+      "name": "Mira Varanasi",
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&auto=format&fit=crop&q=80",
+      "bio": "Contemporary global bass producer fusing Bhojpuri rhythm cycles with heavy sub frequencies.",
+      "genres": [
+        "Bhojpuri Fusion Beats",
+        "Deep House & Club"
+      ],
+      "monthlyListeners": 654000,
+      "topSongIds": [
+        "song-4",
+        "song-9",
+        "song-14"
+      ]
+    },
+    {
+      "id": "artist-5",
+      "name": "Orbital Horizon",
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&auto=format&fit=crop&q=80",
+      "bio": "Composer of widescreen cinematic vistas and deep meditative ambient frequencies.",
+      "genres": [
+        "Cinematic Ambient"
+      ],
+      "monthlyListeners": 512000,
+      "topSongIds": [
+        "song-5",
+        "song-10",
+        "song-15"
+      ]
+    }
+  ],
+  "albums": [
+    {
+      "id": "album-bhojpuri-bhakti",
+      "title": "Durga Saptashati & Devi Geet",
+      "artist": "Devi Vandana & Folk Choir",
+      "artistId": "artist-1",
+      "coverUrl": "https://images.unsplash.com/photo-1609342122563-a43ac8917a3a?w=600&auto=format&fit=crop&q=80",
+      "releaseDate": "2026-03-25",
+      "genre": "Bhojpuri Bhakti & Devi Geet",
+      "songIds": [
+        "song-bhojpuri-1",
+        "song-bhojpuri-2"
+      ]
+    },
+    {
+      "id": "album-1",
+      "title": "Ganga Sunset Sessions",
+      "artist": "Kavya & The Echoes",
+      "artistId": "artist-1",
+      "coverUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+      "releaseDate": "2025-11-12",
+      "genre": "Bhojpuri Fusion Beats",
+      "songIds": [
+        "song-1",
+        "song-6",
+        "song-11",
+        "song-16"
+      ]
+    },
+    {
+      "id": "album-2",
+      "title": "Neon Odyssey 2084",
+      "artist": "Aetherwave",
+      "artistId": "artist-2",
+      "coverUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+      "releaseDate": "2026-02-18",
+      "genre": "Synthwave & Retro",
+      "songIds": [
+        "song-2",
+        "song-7",
+        "song-12",
+        "song-17"
+      ]
+    },
+    {
+      "id": "album-3",
+      "title": "Midnight Coffee & Rain",
+      "artist": "Nico Sol",
+      "artistId": "artist-3",
+      "coverUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=600&auto=format&fit=crop&q=80",
+      "releaseDate": "2026-01-05",
+      "genre": "Chillhop & Lo-Fi",
+      "songIds": [
+        "song-3",
+        "song-8",
+        "song-13",
+        "song-18"
+      ]
+    },
+    {
+      "id": "album-4",
+      "title": "Patna Basslines Vol. 1",
+      "artist": "Mira Varanasi",
+      "artistId": "artist-4",
+      "coverUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&auto=format&fit=crop&q=80",
+      "releaseDate": "2026-03-01",
+      "genre": "Bhojpuri Fusion Beats",
+      "songIds": [
+        "song-4",
+        "song-9",
+        "song-14",
+        "song-19"
+      ]
+    },
+    {
+      "id": "album-5",
+      "title": "Cosmic Drift Through Time",
+      "artist": "Orbital Horizon",
+      "artistId": "artist-5",
+      "coverUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&auto=format&fit=crop&q=80",
+      "releaseDate": "2025-10-20",
+      "genre": "Cinematic Ambient",
+      "songIds": [
+        "song-5",
+        "song-10",
+        "song-15",
+        "song-20"
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "id": "genre-bhojpuri-bhakti",
+      "name": "Bhojpuri Bhakti & Devi Geet",
+      "color": "#e11d48"
+    },
+    {
+      "id": "genre-1",
+      "name": "Synthwave & Retro",
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "genre-2",
+      "name": "Chillhop & Lo-Fi",
+      "color": "#06b6d4"
+    },
+    {
+      "id": "genre-3",
+      "name": "Deep House & Club",
+      "color": "#ec4899"
+    },
+    {
+      "id": "genre-4",
+      "name": "Cinematic Ambient",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "genre-5",
+      "name": "Bhojpuri Fusion Beats",
+      "color": "#f59e0b"
+    },
+    {
+      "id": "genre-6",
+      "name": "Indie Acoustic",
+      "color": "#10b981"
+    },
+    {
+      "id": "genre-7",
+      "name": "Neo-Soul & R&B",
+      "color": "#d946ef"
+    },
+    {
+      "id": "genre-8",
+      "name": "Cyberpunk Bass",
+      "color": "#ef4444"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "playlist-bhojpuri-bhakti",
+      "name": "Bhojpuri Devi Bhakti Special",
+      "description": "भक्तिमय देवी गीत - लाल चुनरिया वाली मईया & आवा हो मईया हमरा अंगनवा with traditional dholak & mangal geet.",
+      "coverUrl": "https://images.unsplash.com/photo-1609342122563-a43ac8917a3a?w=600&auto=format&fit=crop&q=80",
+      "userId": "user-demo",
+      "isAiGenerated": false,
+      "songIds": [
+        "song-bhojpuri-1",
+        "song-bhojpuri-2",
+        "song-1",
+        "song-4",
+        "song-11"
+      ],
+      "createdAt": "2026-09-30T15:09:40.498Z"
+    },
+    {
+      "id": "playlist-1",
+      "name": "Late Night Focus & Flow",
+      "description": "Deep mellow lo-fi beats and ambient textures engineered for deep coding and concentration.",
+      "coverUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&auto=format&fit=crop&q=80",
+      "userId": "user-demo",
+      "isAiGenerated": false,
+      "songIds": [
+        "song-3",
+        "song-8",
+        "song-13",
+        "song-18",
+        "song-5"
+      ],
+      "createdAt": "2026-09-10T14:16:22.249Z"
+    },
+    {
+      "id": "playlist-2",
+      "name": "Bhojpuri Road Trip Fuel",
+      "description": "High energy folk rhythms, modern 808s, and electric fusion for the highway.",
+      "coverUrl": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=600&auto=format&fit=crop&q=80",
+      "userId": "user-demo",
+      "isAiGenerated": true,
+      "aiPrompt": "Energetic Bhojpuri road trip songs with modern beats",
+      "songIds": [
+        "song-1",
+        "song-4",
+        "song-11",
+        "song-19",
+        "song-9",
+        "song-6"
+      ],
+      "createdAt": "2026-09-16T14:16:22.249Z"
+    },
+    {
+      "id": "playlist-3",
+      "name": "Cyberpunk Cyberdrive",
+      "description": "Analog synthesizers, neon basslines, and adrenaline synthwave tracks.",
+      "coverUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+      "userId": "user-demo",
+      "isAiGenerated": false,
+      "songIds": [
+        "song-2",
+        "song-7",
+        "song-12",
+        "song-17"
+      ],
+      "createdAt": "2026-09-20T14:16:22.249Z"
+    },
+    {
+      "id": "playlist-4",
+      "name": "Cosmic Meditation & Sleep",
+      "description": "Warm drone frequencies and slow soundscapes to ease the mind into deep rest.",
+      "coverUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&auto=format&fit=crop&q=80",
+      "userId": "user-demo",
+      "isAiGenerated": false,
+      "songIds": [
+        "song-5",
+        "song-10",
+        "song-15",
+        "song-20"
+      ],
+      "createdAt": "2026-09-25T14:16:22.249Z"
+    },
+    {
+      "id": "playlist-5",
+      "name": "Daily Acoustic Warmth",
+      "description": "Organic strings, cozy rhythms, and morning relaxation tunes.",
+      "coverUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&auto=format&fit=crop&q=80",
+      "userId": "user-demo",
+      "isAiGenerated": false,
+      "songIds": [
+        "song-6",
+        "song-8",
+        "song-16",
+        "song-3"
+      ],
+      "createdAt": "2026-09-28T14:16:22.249Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "Aura Studio Admin",
+      "email": "admin@vibewave.io",
+      "role": "ADMIN",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+      "createdAt": "2026-09-30T14:16:22.249Z"
+    },
+    {
+      "id": "user-demo",
+      "name": "Alex Rivera",
+      "email": "alex@vibewave.io",
+      "role": "USER",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+      "createdAt": "2026-09-30T14:16:22.249Z"
+    }
+  ],
+  "likes": [
+    {
+      "userId": "user-demo",
+      "songId": "song-1",
+      "createdAt": "2026-09-30T14:16:22.249Z"
+    },
+    {
+      "userId": "user-demo",
+      "songId": "song-3",
+      "createdAt": "2026-09-30T14:16:22.249Z"
+    },
+    {
+      "userId": "user-demo",
+      "songId": "song-11",
+      "createdAt": "2026-09-30T14:16:22.249Z"
+    },
+    {
+      "userId": "user-demo",
+      "songId": "song-2",
+      "createdAt": "2026-09-30T14:16:22.249Z"
+    }
+  ],
+  "listeningHistory": [
+    {
+      "id": "hist-1790780824773",
+      "userId": "user-admin",
+      "songId": "song-1",
+      "progress": 0,
+      "playedAt": "2026-09-30T15:07:04.773Z"
+    },
+    {
+      "id": "h-1",
+      "userId": "user-demo",
+      "songId": "song-1",
+      "progress": 140,
+      "playedAt": "2026-09-30T13:16:22.249Z"
+    },
+    {
+      "id": "h-2",
+      "userId": "user-demo",
+      "songId": "song-3",
+      "progress": 95,
+      "playedAt": "2026-09-30T12:16:22.249Z"
+    },
+    {
+      "id": "h-3",
+      "userId": "user-demo",
+      "songId": "song-11",
+      "progress": 198,
+      "playedAt": "2026-09-30T10:16:22.249Z"
+    }
+  ]
+}

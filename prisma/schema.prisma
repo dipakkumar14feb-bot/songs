@@ -1,0 +1,135 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  USER
+  ADMIN
+}
+
+model User {
+  id            String             @id @default(cuid())
+  name          String
+  email         String             @unique
+  passwordHash  String
+  avatar        String?
+  role          Role               @default(USER)
+  createdAt     DateTime           @default(now())
+  updatedAt     DateTime           @updatedAt
+  playlists     Playlist[]
+  likes         Like[]
+  history       ListeningHistory[]
+}
+
+model Artist {
+  id               String   @id @default(cuid())
+  name             String   @unique
+  image            String?
+  bio              String?
+  monthlyListeners Int      @default(0)
+  createdAt        DateTime @default(now())
+  songs            Song[]
+  albums           Album[]
+}
+
+model Album {
+  id          String   @id @default(cuid())
+  title       String
+  artistId    String
+  artist      Artist   @relation(fields: [artistId], references: [id], onDelete: Cascade)
+  coverUrl    String
+  releaseDate DateTime @default(now())
+  genre       String?
+  createdAt   DateTime @default(now())
+  songs       Song[]
+}
+
+model Genre {
+  id    String @id @default(cuid())
+  name  String @unique
+  color String @default("#6366f1")
+  songs Song[]
+}
+
+model Song {
+  id          String             @id @default(cuid())
+  title       String
+  artistId    String
+  artist      Artist             @relation(fields: [artistId], references: [id], onDelete: Cascade)
+  albumId     String?
+  album       Album?             @relation(fields: [albumId], references: [id], onDelete: SetNull)
+  genreId     String?
+  genre       Genre?             @relation(fields: [genreId], references: [id], onDelete: SetNull)
+  audioUrl    String
+  coverUrl    String
+  duration    Int                @default(0) // seconds
+  fileSize    Int                @default(0) // bytes
+  lyrics      String?
+  playCount   Int                @default(0)
+  createdAt   DateTime           @default(now())
+  updatedAt   DateTime           @updatedAt
+  playlistSongs PlaylistSong[]
+  likes       Like[]
+  history     ListeningHistory[]
+
+  @@index([artistId])
+  @@index([albumId])
+  @@index([genreId])
+}
+
+model Playlist {
+  id            String         @id @default(cuid())
+  name          String
+  description   String?
+  coverUrl      String?
+  isAiGenerated Boolean        @default(false)
+  aiPrompt      String?
+  userId        String
+  user          User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+  songs         PlaylistSong[]
+}
+
+model PlaylistSong {
+  id         String   @id @default(cuid())
+  playlistId String
+  playlist   Playlist @relation(fields: [playlistId], references: [id], onDelete: Cascade)
+  songId     String
+  song       Song     @relation(fields: [songId], references: [id], onDelete: Cascade)
+  position   Int      @default(0)
+  addedAt    DateTime @default(now())
+
+  @@unique([playlistId, songId])
+}
+
+model Like {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  songId    String
+  song      Song     @relation(fields: [songId], references: [id], onDelete: Cascade)
+  createdAt DateTime @default(now())
+
+  @@unique([userId, songId])
+}
+
+model ListeningHistory {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  songId    String
+  song      Song     @relation(fields: [songId], references: [id], onDelete: Cascade)
+  progress  Int      @default(0) // seconds played
+  playedAt  DateTime @default(now())
+
+  @@index([userId, playedAt])
+}
